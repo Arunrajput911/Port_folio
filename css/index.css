@@ -1,0 +1,94 @@
+.arun{
+    border-radius: 50px;
+}
+h1{
+    color:#116979;
+    font-size:4rem;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+h2{
+  color:#16817a;
+  font-size:1.7rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+}
+h3{
+  color:#16817a;
+  font-size:1.7rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+p{
+    color:#18b0b0;
+    font-size:1.2rem;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight:bold;
+}
+.my-skills{
+    font-size: 2.3rem;
+}
+.p1{
+    font-size: 3rem;
+    margin:0px;
+}
+body{
+    background-color: #edffea;
+    text-align:center;
+    position:relative;
+    padding-top:100px;
+}
+.top-cloud{
+    position:absolute;
+    right:200px;
+    top:200px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:200px;
+    top:400px;
+}
+.profile{
+    padding-top:100px;
+}
+.python{
+    height: 100px;
+    width: 100px;
+    float:left;
+    margin-right:20px;
+}
+.java{
+    height: 100px;
+    width: 100px;
+    float:right;
+    margin-left:20px;
+}
+.adobe{
+    height: 100px;
+    width: 100px;
+    float:left;
+    margin-right:20px;
+}
+.skill-row{
+    width:50%;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height: 2;
+}
+.button{
+    padding-left:10px;
+    padding-right:10px;
+    background-color:#97e5ef;
+
+}
+.button:hover{
+    background-color: royalblue;
+}
+.bottom-container{
+    margin-top:25px;
+}
+.cr{
+    padding:30px;
+    background-color: slategray;
+    color:white;
+}
